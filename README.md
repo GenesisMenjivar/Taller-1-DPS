@@ -1,6 +1,7 @@
 # Taller-1-DPS
 
 EJERCICIO 1
+*https://snack.expo.dev/@josuefabian/ejercicio1
 
 
 EJERCICIO 2
